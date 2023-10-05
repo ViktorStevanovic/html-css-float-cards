@@ -26,7 +26,6 @@ h1 + p{
 .container{
     width: 70%;
     height: 800px;
-    border: .25rem solid red;
     margin:auto;
    
 }
@@ -43,8 +42,9 @@ h1 + p{
     background-color: black;
     color: white;
     margin-top: 3rem;
-    margin-right: 3rem;
+    margin-left: 2.25rem;
     box-shadow: 1px 1px 10px .25px  black;
+}
 
 .card-info{
     margin-left: 7rem;
