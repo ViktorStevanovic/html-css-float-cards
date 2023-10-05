@@ -31,13 +31,13 @@ h1 + p{
 }
 
 .main-title{
-    padding: 2.5rem;
+    padding: 2rem;
     color: rgb(208, 7, 114);
     text-align: center;
 }
 
 .card{
-    width: 350px;
+    width:350px;
     height: 100px;
     background-color: black;
     color: white;
